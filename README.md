@@ -1,10 +1,10 @@
 # Welcome
 
-Welcome to `NedRPG`. This is a open-source bot written in Discord.JS utilizing MongoDB using the npm package `mongoose`. 
+Welcome to `RPG`. This is a open-source bot written in Discord.JS utilizing MongoDB using the npm package `mongoose`. 
 
 ## Discord Server
 
-To join the support and test server [click here](https://discord.gg/wJVNCZJ)
+To join the support and test server [click here](https://discord.gg/yfKEYS8)
 
 ## Plans
 
@@ -16,8 +16,7 @@ To join the support and test server [click here](https://discord.gg/wJVNCZJ)
 * [x] The basics  
     * [x] Cooldown
     * [x] Alias
-    * [x] Help command (*use module.exports.help or manually add?*)
-        * [x] Made it manually for now, will update to automatic later    
+    * [x] Help command (*use module.exports.help or manually add?*)  
 * [ ] Battle
   * [x] Base mechanics added
   * [ ] User data collection comes in here? what do i need in
